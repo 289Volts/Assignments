@@ -1,6 +1,6 @@
 # PORTFOLIO TASK
 
-## Live Demo: [https://dummy-travel-journal.netlify.app](https://portfolio.joshuaroland.repl.co)
+## Live Demo: [Portfolio Website](https://portfolio.joshuaroland.repl.co)
 
 ## REQUIREMENTS
 
