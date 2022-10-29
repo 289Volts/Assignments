@@ -1,5 +1,8 @@
-# Assignments
+# WEEK 4
 
-This is the main branch and it shows all the folders of tasks done from week 3 to week 5.  
+This week had two tasks. One of the tasks was to create a portfolio website with html, css and js. The other task was to code a login and registration page with a success page.   
 
-There are 3 branches. One for each week and it contains the tasks for that week.
+## LIVE LINKS
+
+- Portfolio task - https://portfolio.joshuaroland.repl.co
+- Form task - https://form-task.joshuaroland.repl.co
