@@ -1,8 +1,8 @@
 # WEEK 4
 
-This week had two tasks. One of the tasks was to create a portfolio website with html, css and js. The other task was to code a login and registration page with a success page.   
+This week had two tasks. One of the tasks was to create a three coloumn cards with html, css using flexbox and Cards using css grid layout. The other task was to code a number guessing game with NodeJs.   
 
 ## LIVE LINKS
 
-- Portfolio task - https://portfolio.joshuaroland.repl.co
-- Form task - https://form-task.joshuaroland.repl.co
+- Number guessing game - https://Numbers-guessing-game.joshuaroland.repl.co
+- Column cards/Grid - https://coloumn-card-and-grid-task.joshuaroland.repl.co
