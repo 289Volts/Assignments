@@ -31,4 +31,4 @@
 - Email - joshuaroland289@gmail.com
 # APPRECIATION 
 
-Appreciation goes to Zuri frontend mentors, techies in the Just Projects Whatsapp group,  and all who contributed in every way
+Appreciation goes to God and Zuri frontend mentors.
